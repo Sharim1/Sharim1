@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sharim Raza</h1>
+<h1 align="center">Hi 👋, I'm Sharim</h1>
 <h3 align="center">A passionate Python/Django developer, love creating bots, high performance platforms and extremely enthusiastic about industry disrupting technologies like AI and Quantum Computing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharim1&label=Profile%20views&color=0e75b6&style=flat" alt="sharim1" /> </p>
