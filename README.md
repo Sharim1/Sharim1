@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharim1" alt="sharim1" /></a> </p>
 
-- 🌱 I’m currently deep diving in **JS**
+- 🌱 I’m currently deep diving in **JS** and **DevOps**
 
 - 📝 Have a look at my articles on [https://medium.com/@sharimpervez](https://medium.com/@sharimpervez)
 
 - 💬 Ask me about **Automation, Bots, Python and Django**
 
-- 📫 How to reach me **sarimpervez@gmail.com**
+- 📫 How to reach me - **sarimpervez@gmail.com**
 
 - ⚡ Fun fact **Love playing chess ;)**
 
