@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Automation, Bots, Python and Django**
 
-- 📫 How to reach me - **sarimpervez@gmail.com**
+- 📫 How to reach me - **sharimpervez@gmail.com**
 
 - ⚡ Fun fact **Love playing chess ;)**
 
