@@ -22,8 +22,8 @@ I'm a passionate **Python / Django** developer who loves creating bots and high-
 
 | | |
 |---|---|
-| 🌱 **Currently learning** | JavaScript and DevOps |
-| 💬 **Ask me about** | Automation, Bots, Python and Django |
+| 🌱 **Currently learning** | JavaScript, DevOps and Observability (Grafana, Loki, Tempo) |
+| 💬 **Ask me about** | Automation, Bots, Python, Django and FastAPI |
 | 📝 **I write** | Articles on [Medium](https://medium.com/@sharimpervez) |
 | 📫 **Reach me** | [sharimpervez@gmail.com](mailto:sharimpervez@gmail.com) |
 | ♟️ **Fun fact** | Love playing chess ;) |
@@ -40,7 +40,15 @@ I'm a passionate **Python / Django** developer who loves creating bots and high-
 
 **Backend, Data & ML**
 
-<img src="https://skillicons.dev/icons?i=django,postgres,mysql,redis,pytorch" alt="Backend, data and ML" />
+<img src="https://skillicons.dev/icons?i=django,fastapi,postgres,mysql,redis,pytorch" alt="Backend, data and ML" />
+
+**Observability & Data Warehousing**
+
+<img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" />
+<br />
+<img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Loki" />
+<img src="https://img.shields.io/badge/Tempo-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Tempo" />
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
 
 **Tools & DevOps**
 
