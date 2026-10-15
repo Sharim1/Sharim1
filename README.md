@@ -1,30 +1,84 @@
-<h1 align="center">Hi 👋, I'm Sharim</h1>
-<h3 align="center">A passionate Python/Django developer, love creating bots, high performance platforms and extremely enthusiastic about industry disrupting technologies like AI and Quantum Computing.</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20Sharim&fontSize=52&fontAlignY=36&desc=Python%20%2F%20Django%20Developer%20%C2%B7%20Bots%20%C2%B7%20Automation%20%C2%B7%20AI&descAlignY=58&animation=fadeIn" width="100%" alt="Header" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharim1&label=Profile%20views&color=0e75b6&style=flat" alt="sharim1" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharim1" alt="sharim1" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=640&lines=Building+high-performance+platforms;Creating+bots+%26+automation+that+save+hours;Deep+diving+into+JS+%26+DevOps;Excited+about+AI+%26+Quantum+Computing)](https://git.io/typing-svg)
 
-- 🌱 I’m currently deep diving in **JS** and **DevOps**
+<img src="https://komarev.com/ghpvc/?username=sharim1&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+<a href="https://github.com/sharim1?tab=followers"><img src="https://img.shields.io/github/followers/sharim1?style=for-the-badge&logo=github&color=0e75b6" alt="Followers" /></a>
+<a href="https://github.com/sharim1?tab=repositories"><img src="https://img.shields.io/github/stars/sharim1?style=for-the-badge&logo=github&color=0e75b6&label=Stars" alt="Stars" /></a>
 
-- 📝 Have a look at my articles on [https://medium.com/@sharimpervez](https://medium.com/@sharimpervez)
+<a href="https://linkedin.com/in/sharimpervez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://medium.com/@sharimpervez"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="mailto:sharimpervez@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-- 💬 Ask me about **Automation, Bots, Python and Django**
+</div>
 
-- 📫 How to reach me - **sharimpervez@gmail.com**
+---
 
-- ⚡ Fun fact **Love playing chess ;)**
+## 👨‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sharimpervez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharimpervez" height="30" width="40" /></a>
-</p>
+I'm a passionate **Python / Django** developer who loves creating bots and high-performance platforms, and I'm extremely enthusiastic about industry-disrupting technologies like **AI** and **Quantum Computing**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+| | |
+|---|---|
+| 🌱 **Currently learning** | JavaScript and DevOps |
+| 💬 **Ask me about** | Automation, Bots, Python and Django |
+| 📝 **I write** | Articles on [Medium](https://medium.com/@sharimpervez) |
+| 📫 **Reach me** | [sharimpervez@gmail.com](mailto:sharimpervez@gmail.com) |
+| ♟️ **Fun fact** | Love playing chess ;) |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharim1&show_icons=true&locale=en&layout=compact" alt="sharim1" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharim1&show_icons=true&locale=en" alt="sharim1" /></p>
+## 🛠️ Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharim1&" alt="sharim1" /></p>
+<div align="center">
+
+**Languages & Frontend**
+
+<img src="https://skillicons.dev/icons?i=py,js,cpp,html,css,tailwind,bootstrap" alt="Languages and frontend" />
+
+**Backend, Data & ML**
+
+<img src="https://skillicons.dev/icons?i=django,postgres,mysql,redis,pytorch" alt="Backend, data and ML" />
+
+**Tools & DevOps**
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,docker,postman" alt="Tools and DevOps" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sharim1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharim1&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=sharim1&theme=tokyonight&hide_border=true" alt="Streak stats" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sharim1/Sharim1/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sharim1/Sharim1/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Sharim1/Sharim1/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer" />
+
+</div>
