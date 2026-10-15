@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20Sharim&fontSize=52&fontAlignY=36&desc=Python%20%2F%20Django%20Developer%20%C2%B7%20Bots%20%C2%B7%20Automation%20%C2%B7%20AI&descAlignY=58&animation=fadeIn" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20Sharim&fontSize=52&fontAlignY=36&desc=Python%20%2F%20FastAPI%20Developer%20%C2%B7%20Bots%20%C2%B7%20Automation%20%C2%B7%20AI&descAlignY=58&animation=fadeIn" width="100%" alt="Header" />
 
 <div align="center">
 
@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Python / Django** developer who loves creating bots and high-performance platforms, and I'm extremely enthusiastic about industry-disrupting technologies like **AI** and **Quantum Computing**.
+I'm a passionate **Python / FastAPI** developer who loves creating bots and high-performance platforms, and I'm extremely enthusiastic about industry-disrupting technologies like **AI** and **Quantum Computing**.
 
 | | |
 |---|---|
