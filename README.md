@@ -41,14 +41,15 @@ I'm a passionate **Python / FastAPI** developer who loves creating bots and high
 **Backend, Data & ML**
 
 <img src="https://skillicons.dev/icons?i=django,fastapi,postgres,mysql,redis,pytorch" alt="Backend, data and ML" />
+<br />
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
 
-**Observability & Data Warehousing**
+**Observability**
 
 <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" />
 <br />
 <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Loki" />
 <img src="https://img.shields.io/badge/Tempo-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Tempo" />
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
 
 **Tools & DevOps**
 
