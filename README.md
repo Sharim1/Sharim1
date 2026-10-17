@@ -63,8 +63,8 @@ I'm a passionate **Python / FastAPI** developer who loves creating bots and high
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sharim1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharim1&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="190" src="https://raw.githubusercontent.com/Sharim1/Sharim1/output/stats.svg" alt="GitHub stats" />
+<img height="190" src="https://raw.githubusercontent.com/Sharim1/Sharim1/output/langs.svg" alt="Top languages" />
 
 <img src="https://raw.githubusercontent.com/Sharim1/Sharim1/output/streak.svg" alt="Streak stats" />
 
