@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=640&lines=Building+high-performance+platforms;Creating+bots+%26+automation+that+save+hours;Deep+diving+into+JS+%26+DevOps;Excited+about+AI+%26+Quantum+Computing)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=sharim1&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+<img src="https://hits.sh/github.com/sharim1.svg?style=for-the-badge&label=Profile%20views&color=0e75b6" alt="Profile views" />
 <a href="https://github.com/sharim1?tab=followers"><img src="https://img.shields.io/github/followers/sharim1?style=for-the-badge&logo=github&color=0e75b6" alt="Followers" /></a>
 <a href="https://github.com/sharim1?tab=repositories"><img src="https://img.shields.io/github/stars/sharim1?style=for-the-badge&logo=github&color=0e75b6&label=Stars" alt="Stars" /></a>
 
@@ -66,7 +66,7 @@ I'm a passionate **Python / FastAPI** developer who loves creating bots and high
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=sharim1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharim1&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=sharim1&theme=tokyonight&hide_border=true" alt="Streak stats" />
+<img src="https://streak-stats.demolab.com?user=sharim1&theme=tokyonight&hide_border=true&v=2" alt="Streak stats" />
 
 </div>
 
