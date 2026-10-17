@@ -1,8 +1,8 @@
-name: Generate Snake
+name: Update profile graphics
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
   push:
     branches: [main]
@@ -10,17 +10,28 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: profile-graphics
+  cancel-in-progress: false
+
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     steps:
+      - uses: actions/checkout@v4
+
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Build streak card
+        env:
+          GITHUB_TOKEN: ${{ secrets.STREAK_TOKEN || secrets.GITHUB_TOKEN }}
+        run: python3 -I scripts/streak.py "${{ github.repository_owner }}" dist/streak.svg
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
